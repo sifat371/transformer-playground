@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+matplotlib
+numpy
+Pillow
+tqdm
+# (do NOT put torch here; install via command below)
